@@ -33,6 +33,8 @@ If the issue persists, email us with your device model, iOS version, and a brief
 
 MarkaNow only processes anonymized, aggregated data. We update our privacy practices as regulations evolve and will announce any material changes here.
 
+[Privacy Policy](https://rhymesg.github.io/markanow-support/privacy-policy)
+
 ## Legal
 
 © 2025 MarkaNow. All rights reserved.
