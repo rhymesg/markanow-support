@@ -1,4 +1,3 @@
-# MarkaNow Support
 
 MarkaNow helps you decide where to go outdoors by combining real-time crowd levels, weather snapshots, and local notes. This page covers the most common support questions and how to reach us.
 
